@@ -1,0 +1,19 @@
+{
+  "name": "aud-socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/socket.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Auditorius/aud-socket-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auditorius/aud-socket-server/issues"
+  },
+  "homepage": "https://github.com/Auditorius/aud-socket-server"
+}
