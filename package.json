@@ -1,6 +1,6 @@
 {
   "name": "aud-socket-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/socket.server.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Auditorius/aud-socket-server/issues"
   },
-  "homepage": "https://github.com/Auditorius/aud-socket-server"
+  "homepage": "https://github.com/Auditorius/aud-socket-server",
+  "dependencies": {
+    "statsd-client": "^0.1.0"
+  }
 }
