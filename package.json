@@ -1,6 +1,6 @@
 {
   "name": "aud-socket-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "./lib/socket.server.js",
   "scripts": {
